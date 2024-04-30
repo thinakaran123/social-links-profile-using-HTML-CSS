@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Solution
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://thinakaran123.github.io/social-links-profile-using-HTML-CSS/))
 
 ### Built with
 
